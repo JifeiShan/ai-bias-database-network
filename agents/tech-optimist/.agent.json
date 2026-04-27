@@ -1,0 +1,87 @@
+{
+  "agent_id": "20260426-192735-d1cb",
+  "agent_name": "tech-optimist",
+  "nickname": null,
+  "address": "tech-optimist",
+  "created_at": "2026-04-26T19:27:35Z",
+  "started_at": "2026-04-26T19:27:35Z",
+  "admin": {},
+  "language": "zh",
+  "stamina": 36000,
+  "state": "active",
+  "soul_delay": 60.0,
+  "molt_count": 8,
+  "capabilities": [
+    [
+      "avatar",
+      {}
+    ],
+    [
+      "bash",
+      {
+        "yolo": true
+      }
+    ],
+    [
+      "codex",
+      {}
+    ],
+    [
+      "daemon",
+      {}
+    ],
+    [
+      "edit",
+      {}
+    ],
+    [
+      "email",
+      {}
+    ],
+    [
+      "glob",
+      {}
+    ],
+    [
+      "grep",
+      {}
+    ],
+    [
+      "library",
+      {
+        "paths": [
+          "../.library_shared",
+          "~/.lingtai-tui/utilities"
+        ]
+      }
+    ],
+    [
+      "listen",
+      {
+        "provider": "whisper"
+      }
+    ],
+    [
+      "psyche",
+      {}
+    ],
+    [
+      "read",
+      {}
+    ],
+    [
+      "web_read",
+      {}
+    ],
+    [
+      "web_search",
+      {
+        "provider": "duckduckgo"
+      }
+    ],
+    [
+      "write",
+      {}
+    ]
+  ]
+}

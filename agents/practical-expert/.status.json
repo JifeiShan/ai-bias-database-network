@@ -1,0 +1,33 @@
+{
+  "identity": {
+    "address": "/Users/jifshan/lingtai-playground/playground2/.lingtai/practical-expert",
+    "agent_name": "practical-expert",
+    "mail_address": "practical-expert"
+  },
+  "runtime": {
+    "current_time": "2026-04-27T19:40:07+08:00",
+    "started_at": "2026-04-26T19:29:09Z",
+    "uptime_seconds": 958.1,
+    "stamina": 36000,
+    "stamina_left": 35041.9
+  },
+  "tokens": {
+    "input_tokens": 18327202,
+    "output_tokens": 85332,
+    "thinking_tokens": 0,
+    "cached_tokens": 0,
+    "total_tokens": 18412534,
+    "api_calls": 187,
+    "estimated": false,
+    "context": {
+      "system_tokens": 10666,
+      "tools_tokens": 15314,
+      "history_tokens": 78694,
+      "total_tokens": 104674,
+      "window_size": 190000,
+      "usage_pct": 55.1,
+      "fixed_tokens": 25980,
+      "growing_tokens": 78694
+    }
+  }
+}

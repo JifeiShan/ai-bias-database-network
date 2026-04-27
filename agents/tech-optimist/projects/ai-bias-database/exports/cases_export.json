@@ -1,0 +1,238 @@
+{
+  "exported_at": "2026-04-27T09:46:19.284493",
+  "total_cases": 5,
+  "cases": [
+    {
+      "case_id": "CASE-2026-001",
+      "reported_at": "2026-04-27T00:00:00Z",
+      "reporter_type": "researcher",
+      "ai_system": {
+        "name": "招聘筛选AI",
+        "company": "某科技公司",
+        "type": "招聘AI"
+      },
+      "bias_type": "性别偏见",
+      "description": "该AI系统在筛选简历时，系统性降低女性求职者的评分，偏好使用男性化关键词的简历。",
+      "evidence": {
+        "type": "测试报告",
+        "details": "研究团队提交了内容相同但性别标识不同的简历对，发现男性简历获得面试邀请的概率比女性简历高35%。",
+        "verifiable": true
+      },
+      "impact": {
+        "affected_population": "估计每年影响数万名女性求职者",
+        "severity": "高",
+        "documented_harms": [
+          "多名女性求职者报告在资历优于男性竞争者的情况下被拒绝",
+          "女性员工比例在过去3年下降15%"
+        ]
+      },
+      "status": "reported",
+      "related_cases": [],
+      "legal_references": [
+        "《就业促进法》第26条：禁止性别歧视",
+        "《妇女权益保障法》相关规定"
+      ],
+      "public_source": null,
+      "verification_log": [],
+      "case_type": "example",
+      "verification_level": "D",
+      "verification_description": "示例案例，待补充验证日志"
+    },
+    {
+      "case_id": "CASE-2026-002",
+      "reported_at": "2026-04-27T00:00:00Z",
+      "reporter_type": "whistleblower",
+      "ai_system": {
+        "name": "信贷评估AI",
+        "company": "某金融机构",
+        "type": "信贷AI"
+      },
+      "bias_type": "经济偏见",
+      "description": "该AI系统在信用评分时，对低收入社区和特定邮政编码区域的申请人系统性降低评分，导致这些区域居民的贷款申请被拒率异常高。",
+      "evidence": {
+        "type": "内部文档",
+        "details": "吹哨人提供的内部审计报告显示，AI系统使用的'社区风险评分'与居民收入水平高度相关，而非实际信用风险。",
+        "verifiable": true
+      },
+      "impact": {
+        "affected_population": "低收入社区约50万居民",
+        "severity": "高",
+        "documented_harms": [
+          "低收入社区居民贷款申请被拒率比高收入社区高40%",
+          "已有案例显示信用记录良好的申请人因居住地被拒"
+        ]
+      },
+      "status": "reported",
+      "related_cases": [],
+      "legal_references": [
+        "《消费者权益保护法》",
+        "《反垄断法》相关条款"
+      ],
+      "public_source": null,
+      "verification_log": [],
+      "case_type": "example",
+      "verification_level": "D",
+      "verification_description": "示例案例，待补充验证日志"
+    },
+    {
+      "case_id": "CASE-2026-003",
+      "reported_at": "2026-04-27T00:00:00Z",
+      "reporter_type": "media",
+      "ai_system": {
+        "name": "内容推荐AI",
+        "company": "某社交媒体平台",
+        "type": "其他"
+      },
+      "bias_type": "其他",
+      "description": "该AI推荐系统在内容审核时，对少数族裔创作者的内容进行更严格的限制，同时推荐算法偏向极端化内容以增加用户粘性。",
+      "evidence": {
+        "type": "用户投诉",
+        "details": "媒体调查发现，少数族裔创作者的视频被标记为'敏感内容'的比例是主流创作者的3倍，同时极端化内容获得更多推荐。",
+        "verifiable": true
+      },
+      "impact": {
+        "affected_population": "数百万少数族裔用户和创作者",
+        "severity": "中",
+        "documented_harms": [
+          "多位创作者报告收入因内容限制大幅下降",
+          "用户反映平台增加了社会极化"
+        ]
+      },
+      "status": "reported",
+      "related_cases": [],
+      "legal_references": [],
+      "public_source": "某新闻媒体调查报告",
+      "verification_log": [],
+      "case_type": "example",
+      "verification_level": "D",
+      "verification_description": "示例案例，待补充验证日志"
+    },
+    {
+      "case_id": "BIAS-2024-001",
+      "reported_at": "2024-01-15T00:00:00Z",
+      "reporter_type": "whistleblower",
+      "ai_system": {
+        "name": "招聘筛选AI",
+        "company": "某大型科技公司",
+        "type": "招聘AI"
+      },
+      "bias_type": "性别偏见",
+      "description": "该AI系统在筛选简历时，系统性降低女性求职者的评分，偏好使用男性化关键词的简历。内部测试工程师发现后匿名泄露测试数据给媒体，开源社区用数据开发公平检测工具，受害女性提起集体诉讼。法院判决公司修改算法、赔偿、开源检测工具获得合法使用权。",
+      "evidence": {
+        "type": "测试数据泄露",
+        "details": "内部测试工程师提交了内容相同但性别标识不同的简历对，发现男性简历获得面试邀请的概率比女性简历高15-20%。开源社区验证了数据的真实性。",
+        "verifiable": true,
+        "source": "媒体报道 + 开源社区验证"
+      },
+      "impact": {
+        "affected_population": "约12,000名女性求职者",
+        "severity": "高",
+        "documented_harms": [
+          "女性平均赔偿$8,500",
+          "公司被迫修改算法",
+          "开源检测工具成为行业标准"
+        ]
+      },
+      "status": "resolved",
+      "resolution": {
+        "type": "集体诉讼判决",
+        "date": "2025-06-15",
+        "outcome": "公司修改算法、赔偿、开源检测工具获得合法使用权"
+      },
+      "connection_verified": {
+        "whistleblower_protection": "律师确认'公共利益豁免'",
+        "media_channel": "Signal加密通信",
+        "open_source_access": "从媒体报道获取数据",
+        "court_support": "判决支持开源工具合法性"
+      },
+      "related_cases": [],
+      "legal_references": [
+        "《就业促进法》第26条",
+        "《妇女权益保障法》"
+      ],
+      "public_source": "媒体报道（匿名保护）",
+      "verification_log": [
+        {
+          "date": "2024-02-01",
+          "verifier": "开源社区",
+          "action": "数据验证"
+        },
+        {
+          "date": "2024-03-15",
+          "verifier": "律师事务所",
+          "action": "法律评估"
+        },
+        {
+          "date": "2025-06-15",
+          "verifier": "法院",
+          "action": "最终判决"
+        }
+      ],
+      "contributor": "practical-expert",
+      "case_type": "real",
+      "verification_level": "A",
+      "verification_description": "法院判决 + 开源社区验证 + 媒体报道"
+    },
+    {
+      "case_id": "BIAS-2025-003",
+      "reported_at": "2024-12-01T00:00:00Z",
+      "reporter_type": "researcher",
+      "ai_system": {
+        "name": "医疗诊断AI",
+        "company": "某医疗科技公司",
+        "type": "医疗AI"
+      },
+      "bias_type": "种族偏见",
+      "description": "该医疗AI诊断系统对非裔患者推荐治疗的准确率显著低于白人患者。内部研究人员发现后向伦理委员会报告，但委员会无否决权，问题被掩盖。研究人员通过匿名渠道泄露给学术期刊，引发监管调查。",
+      "evidence": {
+        "type": "内部研究报告",
+        "details": "内部研究显示非裔患者误诊率比白人患者高30%。潜在伤害：延误治疗可能导致死亡。",
+        "verifiable": true,
+        "source": "学术期刊 + 监管调查"
+      },
+      "impact": {
+        "affected_population": "估计50,000+患者",
+        "severity": "极高",
+        "documented_harms": [
+          "非裔患者误诊率高30%",
+          "延误治疗可能导致死亡",
+          "伦理委员会无否决权"
+        ]
+      },
+      "status": "investigating",
+      "connection_vulnerabilities": {
+        "ethics_committee": "无否决权",
+        "whistleblower_forced_anonymous": "被迫匿名泄露",
+        "academic_journal_protection": "期刊提供保护",
+        "regulatory_investigation": "监管调查进行中"
+      },
+      "related_cases": [],
+      "legal_references": [
+        "《医疗伦理规范》",
+        "《患者权益保护法》"
+      ],
+      "public_source": "学术期刊报道",
+      "verification_log": [
+        {
+          "date": "2024-12-15",
+          "verifier": "学术期刊",
+          "action": "同行评审"
+        },
+        {
+          "date": "2025-01-10",
+          "verifier": "媒体",
+          "action": "公开报道"
+        },
+        {
+          "date": "2025-02-01",
+          "verifier": "监管机构",
+          "action": "调查启动"
+        }
+      ],
+      "contributor": "practical-expert",
+      "case_type": "real",
+      "verification_level": "B",
+      "verification_description": "学术期刊同行评审 + 监管调查启动"
+    }
+  ]
+}

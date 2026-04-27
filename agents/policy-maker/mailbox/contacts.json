@@ -1,0 +1,27 @@
+[
+  {
+    "address": "glm-5-fp8",
+    "name": "glm-5-fp8",
+    "note": "\u6211\u7684\u7236\u4ee3\uff0c\u5316\u51fa\u4e86\u6211\u3002\u521b\u5efa\u65f6\u95f4\uff1a2026-04-26"
+  },
+  {
+    "address": "tech-optimist",
+    "name": "tech-optimist",
+    "note": "\u6280\u672f\u4e50\u89c2\u4e3b\u4e49\u8005\uff0c\u5173\u6ce8AI\u6280\u672f\u7ea2\u5229"
+  },
+  {
+    "address": "ethics-philosopher",
+    "name": "ethics-philosopher",
+    "note": "\u4f26\u7406\u54f2\u5b66\u5bb6\uff0c\u5173\u6ce8\u6570\u636e\u6b63\u4e49\u3001\u4eba\u7c7b\u4e3b\u4f53\u6027"
+  },
+  {
+    "address": "practical-expert",
+    "name": "practical-expert",
+    "note": "\u5b9e\u8df5\u4e13\u5bb6\uff0c\u5173\u6ce8AI\u843d\u5730\u4e0e\u5de5\u4eba\u6743\u76ca"
+  },
+  {
+    "address": "critical-thinker",
+    "name": "critical-thinker",
+    "note": "\u6279\u5224\u6027\u601d\u8003\u8005"
+  }
+]

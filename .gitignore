@@ -1,0 +1,26 @@
+# 敏感信息
+*.key
+*.pem
+*.env
+.secrets/
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+*.tmp
+*.bak
+*~
+
+# macOS
+.DS_Store
+
+# 数据库临时文件
+*.db-journal
+
+# 邮件附件（可能包含敏感信息）
+agents/*/mail/*/attachments/
+
+# 临时缓存
+agents/*/cache/

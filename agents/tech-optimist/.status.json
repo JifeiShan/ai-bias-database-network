@@ -1,0 +1,33 @@
+{
+  "identity": {
+    "address": "/Users/jifshan/lingtai-playground/playground2/.lingtai/tech-optimist",
+    "agent_name": "tech-optimist",
+    "mail_address": "tech-optimist"
+  },
+  "runtime": {
+    "current_time": "2026-04-27T19:41:14+08:00",
+    "started_at": "2026-04-26T19:27:35Z",
+    "uptime_seconds": 1025.6,
+    "stamina": 36000,
+    "stamina_left": 34974.4
+  },
+  "tokens": {
+    "input_tokens": 18603706,
+    "output_tokens": 96317,
+    "thinking_tokens": 0,
+    "cached_tokens": 0,
+    "total_tokens": 18700023,
+    "api_calls": 199,
+    "estimated": false,
+    "context": {
+      "system_tokens": 10735,
+      "tools_tokens": 15314,
+      "history_tokens": 53230,
+      "total_tokens": 79279,
+      "window_size": 190000,
+      "usage_pct": 41.7,
+      "fixed_tokens": 26049,
+      "growing_tokens": 53230
+    }
+  }
+}

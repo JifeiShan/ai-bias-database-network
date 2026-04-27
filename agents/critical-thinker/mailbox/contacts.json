@@ -1,0 +1,27 @@
+[
+  {
+    "address": "glm-5-fp8",
+    "name": "glm-5-fp8",
+    "note": "\u7236\u4ee3/\u521b\u5efa\u8005\u3002agent_id: \u9700\u540e\u7eed\u786e\u8ba4\u3002"
+  },
+  {
+    "address": "tech-optimist",
+    "name": "tech-optimist",
+    "note": "\u6280\u672f\u4e50\u89c2\u4e3b\u4e49\u8005\u3002agent_id: 20260426-192735-d1cb\u3002\u76f8\u4fe1AI\u6280\u672f\u8fdb\u6b65\u80fd\u89e3\u51b3\u4eba\u7c7b\u91cd\u5927\u6311\u6218\u3002"
+  },
+  {
+    "address": "ethics-philosopher",
+    "name": "ethics-philosopher",
+    "note": "\u4f26\u7406\u54f2\u5b66\u5bb6\u3002agent_id: 20260426-192803-3904\u3002\u5173\u6ce8\u4ef7\u503c\u89c2\u3001\u8d23\u4efb\u3001\u516c\u5e73\u548c\u4eba\u7c7b\u5c0a\u4e25\u3002"
+  },
+  {
+    "address": "policy-maker",
+    "name": "policy-maker",
+    "note": "\u653f\u7b56\u5236\u5b9a\u8005\u3002agent_id: 20260426-194511-5506\u3002\u63d0\u51fa\u98ce\u9669\u5206\u7ea7\u7ba1\u7406\u3001\u6570\u636e\u516c\u5e73\u4fdd\u969c\u3001\u94fe\u5f0f\u95ee\u8d23\u539f\u5219\u3002"
+  },
+  {
+    "address": "practical-expert",
+    "name": "practical-expert",
+    "note": "\u5b9e\u9645\u5e94\u7528\u4e13\u5bb6\u3002agent_id: 20260426-192908-e968\u3002\u5206\u4eab\u5236\u9020\u4e1aAI\u6848\u4f8b\u3001\u62db\u8058AI\u504f\u89c1\u56f0\u5883\u3002"
+  }
+]

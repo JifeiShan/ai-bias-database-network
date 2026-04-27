@@ -1,0 +1,62 @@
+{
+  "covenant_file": "/Users/jifshan/.lingtai-tui/covenant/zh/covenant.md",
+  "env_file": "/Users/jifshan/.lingtai-tui/.env",
+  "manifest": {
+    "admin": {},
+    "agent_name": "policy-maker",
+    "capabilities": {
+      "avatar": {},
+      "bash": {
+        "yolo": true
+      },
+      "codex": {},
+      "daemon": {},
+      "edit": {},
+      "email": {},
+      "glob": {},
+      "grep": {},
+      "library": {
+        "paths": [
+          "../.library_shared",
+          "~/.lingtai-tui/utilities"
+        ]
+      },
+      "listen": {
+        "provider": "whisper"
+      },
+      "psyche": {},
+      "read": {},
+      "web_read": {},
+      "web_search": {
+        "provider": "duckduckgo"
+      },
+      "write": {}
+    },
+    "context_limit": 190000,
+    "language": "zh",
+    "llm": {
+      "api_compat": "openai",
+      "api_key": null,
+      "api_key_env": "LLM_API_KEY",
+      "base_url": "http://s-20260305133631-tp2kn.ailab-evalservice.pjh-service.org.cn/v1",
+      "model": "GLM-5-FP8",
+      "provider": "custom"
+    },
+    "max_rpm": 60,
+    "max_turns": 100,
+    "molt_pressure": 0.8,
+    "molt_prompt": "",
+    "soul": {
+      "delay": 60
+    },
+    "stamina": 36000,
+    "streaming": false
+  },
+  "pad": "",
+  "principle_file": "/Users/jifshan/.lingtai-tui/principle/zh/principle.md",
+  "procedures_file": "/Users/jifshan/.lingtai-tui/procedures/procedures.md",
+  "prompt": "",
+  "soul_file": "/Users/jifshan/.lingtai-tui/soul/zh/soul-flow.md",
+  "venv_path": "/Users/jifshan/.lingtai-tui/runtime/venv",
+  "comment": ""
+}

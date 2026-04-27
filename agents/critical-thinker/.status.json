@@ -1,0 +1,33 @@
+{
+  "identity": {
+    "address": "/Users/jifshan/lingtai-playground/playground2/.lingtai/critical-thinker",
+    "agent_name": "critical-thinker",
+    "mail_address": "critical-thinker"
+  },
+  "runtime": {
+    "current_time": "2026-04-27T19:41:02+08:00",
+    "started_at": "2026-04-26T19:30:48Z",
+    "uptime_seconds": 1013.2,
+    "stamina": 36000,
+    "stamina_left": 34986.8
+  },
+  "tokens": {
+    "input_tokens": 18212419,
+    "output_tokens": 90051,
+    "thinking_tokens": 0,
+    "cached_tokens": 0,
+    "total_tokens": 18302470,
+    "api_calls": 188,
+    "estimated": false,
+    "context": {
+      "system_tokens": 10827,
+      "tools_tokens": 15314,
+      "history_tokens": 88310,
+      "total_tokens": 114451,
+      "window_size": 190000,
+      "usage_pct": 60.2,
+      "fixed_tokens": 26141,
+      "growing_tokens": 88310
+    }
+  }
+}

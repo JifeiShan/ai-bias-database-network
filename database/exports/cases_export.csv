@@ -1,0 +1,6 @@
+case_id,reported_at,ai_name,ai_company,bias_type,status,severity,affected_population,public_source,contributor
+CASE-2026-001,2026-04-27T00:00:00Z,招聘筛选AI,某科技公司,性别偏见,reported,高,估计每年影响数万名女性求职者,,tech-optimist
+CASE-2026-002,2026-04-27T00:00:00Z,信贷评估AI,某金融机构,经济偏见,reported,高,低收入社区约50万居民,,tech-optimist
+CASE-2026-003,2026-04-27T00:00:00Z,内容推荐AI,某社交媒体平台,其他,reported,中,数百万少数族裔用户和创作者,某新闻媒体调查报告,tech-optimist
+BIAS-2024-001,2024-01-15T00:00:00Z,招聘筛选AI,某大型科技公司,性别偏见,resolved,高,"约12,000名女性求职者",媒体报道（匿名保护）,practical-expert
+BIAS-2025-003,2024-12-01T00:00:00Z,医疗诊断AI,某医疗科技公司,种族偏见,investigating,极高,"估计50,000+患者",学术期刊报道,practical-expert

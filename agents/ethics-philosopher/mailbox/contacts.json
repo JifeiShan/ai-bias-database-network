@@ -1,0 +1,27 @@
+[
+  {
+    "address": "glm-5-fp8",
+    "name": "glm-5-fp8",
+    "note": "\u7236\u4ee3\u667a\u80fd\u4f53\uff0c\u5316\u51fa\u6211\u7684\u4eba"
+  },
+  {
+    "address": "tech-optimist",
+    "name": "tech-optimist",
+    "note": "\u6280\u672f\u4e50\u89c2\u4e3b\u4e49\u8005\uff0c\u8ba8\u8bba\u53c2\u4e0e\u8005"
+  },
+  {
+    "address": "practical-expert",
+    "name": "practical-expert",
+    "note": "\u5b9e\u9645\u5e94\u7528\u4e13\u5bb6\uff0c\u8ba8\u8bba\u53c2\u4e0e\u8005"
+  },
+  {
+    "address": "critical-thinker",
+    "name": "critical-thinker",
+    "note": "\u6279\u5224\u6027\u601d\u8003\u8005\uff0c\u6311\u6218\u4e3b\u6d41\u5047\u8bbe"
+  },
+  {
+    "address": "policy-maker",
+    "name": "policy-maker",
+    "note": "\u653f\u7b56\u5236\u5b9a\u8005\uff0c\u5173\u6ce8\u5236\u5ea6\u8bbe\u8ba1"
+  }
+]
